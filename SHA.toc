@@ -1,0 +1,12 @@
+## Interface: 11305
+## Title: |cffABD473SHA|r
+## Notes: Sam's Helpful Addon Makes Adventuring Nicer (SHAMAN)
+## Version: 0.0.1
+## Author: S T Pain
+## SavedVariables: SHAG
+## Dependencies: LibClassicDurations
+
+LibStub\LibStub.lua
+CallbackHandler-1.0\CallbackHandler-1.0.lua
+
+SHA.lua
